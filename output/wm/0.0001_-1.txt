@@ -1,4 +1,4 @@
-# mu = 0.0001, s = -1, trials requested = 1, runtime = 0:00:01
+# mu = 0.0001, s = -1, trials requested = 1, runtime = 0:00:03
 # "Time"	"Actual trials"	"Mean mutation"	"Average mean mutation"	"Average mutation variance"
 0	1	0	0	0	
 1	1	0	0	0	

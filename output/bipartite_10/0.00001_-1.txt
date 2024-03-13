@@ -1,4 +1,4 @@
-# mu = 1e-05, s = -1, trials requested = 1, runtime = 0:00:04
+# mu = 1e-05, s = -1, trials requested = 1, runtime = 0:00:32
 # "Time"	"Actual trials"	"Mean mutation"	"Average mean mutation"	"Average mutation variance"
 0	1	0	0	0	
 1	1	0.01	0.01	0.0099	
@@ -91,7 +91,7 @@
 88	1	0.01	0.01	0.0099	
 89	1	0.01	0.01	0.0099	
 90	1	0.01	0.01	0.0099	
-91	1	0.02	0.02	0.0196	
+91	1	0.01	0.01	0.0099	
 92	1	0.01	0.01	0.0099	
 93	1	0.01	0.01	0.0099	
 94	1	0.01	0.01	0.0099	
